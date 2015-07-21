@@ -1,0 +1,14 @@
+DigiFlip 2.1 Channel 40W PS045 Backlit,60
+DigiFlip 2.1 Channel 40W PS045 Backlit 2,50
+DigiFlip 2.1 Channel 40W PS045 Backlit 3,67
+DigiFlip 2.1 Channel 40W PS045 Backlit 5,40
+Hours,50
+Services,48
+Test product,8
+Test product 2,40
+Test product 3,40
+Test product 6,40
+Test product1,30
+Test product4,50
+test product5,40
+Testing,75

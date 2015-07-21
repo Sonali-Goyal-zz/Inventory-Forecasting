@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical">
+ <Button
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="SalesReceipt"
+     android:onClick="OnSalesReceipt"
+     />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ShowStatus"
+        android:onClick="OnShowStatus"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Expected Weekly Sales"
+        android:onClick="OnShowMessage"/>
+
+</LinearLayout>
